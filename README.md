@@ -31,3 +31,5 @@
 - [ ] Tarea pendiente
 
 > esto es una cita.
+
+:smile: :heart: :rocket: :tada:
