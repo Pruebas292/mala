@@ -15,8 +15,7 @@
 *buenas* **adios**
 ***ynosfuimos***
 
-:smile
-:rocket
+![foto de gato](https://www.verdeesvida.es/inc/timthumb.php?src=/files/reportage/11042015103647_iStock_Gato%20bengali%20Andreas%20Krappweiss.jpg&w=800)
 
 ![foto de foro](https://ugremprendedora.ugr.es/wp-content/uploads/2020/09/foro.png)
 
