@@ -13,7 +13,7 @@
 - esto es una lista sin enumerar
 - asi es
 
-- ### Fotos, enlace y emojis
+### Fotos, enlace y emojis
 
 ![foto de gato](https://www.verdeesvida.es/inc/timthumb.php?src=/files/reportage/11042015103647_iStock_Gato%20bengali%20Andreas%20Krappweiss.jpg&w=800)
 
