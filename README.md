@@ -23,6 +23,6 @@
 
 :smile: :heart: :rocket: :tada:
 
-[x]tarea completada
-[]tarea sin completar
+[x] tarea completada
+[-] tarea sin completar
 
